@@ -1,4 +1,10 @@
 # windows-software-deploy
+
+**Notes**
+---
+You need to install `xampp`, `composer` and `nodejs` manually
+---
+
 - Open PowerShell as "Run as Administrator"
 - Paste following and press enter:
 ```sh
