@@ -3,7 +3,7 @@
 **Notes**
 
 ```txt
-You need to install `xampp`, `composer` and `nodejs` manually as need further configuration
+You need to install xampp, composer and nodejs manually as need they further configuration
 ```
 
 - Open PowerShell as "Run as Administrator"
